@@ -69,10 +69,6 @@ function drawTrail()
 function paint(item)
 {
     item.classList.add("colored");
-     
-    //item.setAttribute("class", ".colored");
-    //alert("item.classList.add(colored");
-    //item.classList.add(".colored");
 }
 drawCanvas(16);   
 drawTrail();
