@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    background-color: chocolate; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    
+}
+
+.home{
+    border: 1px;
+    background-color: white;
+    width: 750px;
+    height: 750px;
+    border-style: solid; 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;  
+}
+
+div{  
+    border: 1px;
+    border-style:solid;
+    background-color: white;  
+    color: black;
+     
+
+}
+
+.colored{
+    background-color: black;
+    height: 500px;
+    width:500px;
+}
